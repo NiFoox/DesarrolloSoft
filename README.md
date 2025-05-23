@@ -1,2 +1,2 @@
-# DesarrolloSoft a 
-cambio donat
+# DesarrolloSoft 
+Proyecto: Reseña de videojuegos
